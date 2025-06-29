@@ -10,7 +10,7 @@ This project implements three foundational types of Large Language Models (LLMs)
 > [!WARNING]
 > - Models are small-scale (e.g., 6M–50M parameters) to allow for local training and debugging.
 > - No distributed training or mixed-precision yet — though hooks are in place to support them.
-> - Pretraining is compute-intensive. The purpose here is educational, not to compete with production models. Critical content demanding immediate user attention due to potential risks.
+> - Pretraining is compute-intensive. The purpose here is educational, not to compete with production models. 
 
 The goals is to build three types of LLMs from Scratch
 
