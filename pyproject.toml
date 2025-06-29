@@ -1,0 +1,7 @@
+[project]
+name = "llmsfromscratch"
+version = "0.1.0"
+description = "Build an LLM from Scratch"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = []
