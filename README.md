@@ -10,10 +10,10 @@ This project implements three foundational types of Large Language Models (LLMs)
 > [!WARNING]
 > - Models are small-scale (e.g., 6M–50M parameters) to allow for local training and debugging.
 > - No distributed training or mixed-precision yet — though hooks are in place to support them.
-> - Pretraining is compute-intensive. The purpose here is educational, not to compete with production models. 
+> - Pretraining is compute-intensive. The purpose here is educational, not to compete with production models.
 
-The goals is to build three types of LLMs from Scratch
+The goals is to build three Transformer Architectures from Scratch:
 
-- [ ] GPT-like LLM: An Autoregressive Decoder-only Generative Transformer Model
-- [ ] BERT-like LLM: A Bidirectional Encoder-only Representation Transformer Model
-- [ ] T5-like LLM: A Sequence-to-Sequence Encoder-Decoder Transformer Model
+- [ ] GPT-like Transformer: Decoder-only Architecture
+- [ ] BERT-like Transformer: Encoder-only Architecture
+- [ ] T5-like Transformer: Encoder-Decoder Architecture
